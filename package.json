@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.6.0",
+        "bignumber": "^1.1.0",
+        "dotenv": "^16.0.1",
+        "ganache-cli": "^6.12.2",
+        "truffle": "^5.5.18",
+        "web3": "^1.7.3"
+    }
+}
